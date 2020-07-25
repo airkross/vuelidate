@@ -1,1 +1,1 @@
-# vuelidate
+https://airkross.github.io/vuelidate/
